@@ -1,8 +1,9 @@
 # Animal Classification
+DATASET: https://docs.google.com/forms/d/e/1FAIpQLSeerwGmVkxbZsI0jxGLWfND8nmRCDDSoW1OAVpa8ZzCCR2e-A/viewform
  Classifying 10 animals
 
 1. Meta information
- - # o images: 50,000
+ - 50,000 Images
  - resolution: 64x64 (RGB)
 
 2. Noise Rate
