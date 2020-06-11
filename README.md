@@ -1,6 +1,5 @@
 # Animal Classification
 DATASET: https://docs.google.com/forms/d/e/1FAIpQLSeerwGmVkxbZsI0jxGLWfND8nmRCDDSoW1OAVpa8ZzCCR2e-A/viewform
- Classifying 10 animals
 
 1. Meta information
     - 50,000 Images
